@@ -1,0 +1,6 @@
+{
+  "name": "Vikalp Duty Management System",
+  "description": "Mobile-first volunteer pickup and drop duty management, schedule organizer, fair duty allocation, and point tracking system with Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
